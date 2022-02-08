@@ -32,7 +32,7 @@ void dados::sortedInsert(vector<pair<string, long int>>& vec, string value ,long
 //função que recebe o caminho do arquivo de texto e retorna as palavras
 void dados::ReadData(){
     ifstream palavras;
-    palavras.open("../data/wiktionary.txt");
+    palavras.open("../data/cities.txt");
     palavras>>total;
     while(palavras >> peso>>nome){   
         transform(nome.begin(), nome.end(), nome.begin(), ::tolower);

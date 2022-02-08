@@ -104,3 +104,38 @@ The description of this programming assignment was taken from [Computer Sciecne 
 
 &copy; DIMAp/UFRN 2021.
 &copy; IMD/UFRN 2021.
+
+# Avaliação
+
+## Ler e validar os argumentos da linha de comando | 0 / 10
+
+- Não feito
+
+## Ler os dados da base de dados e armazená-los em uma classe apropriada | 10 / 10
+
+- Acho que ficaria mais claro se vc ordenasse após o fim da leitura, mas ok. 
+
+## Separar a interface textual das demais classes do sistema concentrando os couts e cins em um único objeto | 10 / 10
+
+- Vou considerar
+
+## Implementação de uma classe para conter o resultado da requisição do usuário | 0 / 10
+
+- Não implementado
+
+## Implementação eficiente através de referencias e algoritmos de busca binária | 3 / 10
+
+- Ok, embora você tenha implementado usando upper/lower bound o uso dessas funções está errado. Vou considerar 30%, no entanto pela preocupação em usar referencias
+ao passar containers aos métodos. No entanto a forma como você usou os containers viola o encapsulamento, como já conversamos. 
+
+## Organização do código em src, include, data | 3 / 5
+
+- vou penalizar pela falta de indentação!
+
+## Documentação do código usando o padrão doxygen | 2 / 5
+
+- vou penalizar pela falta de indentação!
+
+## Implementação e documentação de arquivos de teste | 0 / 10
+
+- Não feito
